@@ -6,14 +6,14 @@ just a small small program coded by java  and not more than 200 lines.
 
 <br>
     Memory Clear<br>
-    Memory Recall<br>
+    Memory Recall
     Memory Save<br>
-    Memory Add<br>
+    Memory Add
     Memory Minus<br>
-    CE clear data in register<br>
+    CE clear data in register
     C clear all data and operator<br>
   
-简易计算器1.0版本<br>
+###简易计算器1.0版本<br>
     MC：清除存储的数据<br>
     MR：读取存储的数据<br>
     MS：将所显示的数存入存储器中，存储器中原有的数据被覆盖<br>
