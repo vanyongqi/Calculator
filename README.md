@@ -4,7 +4,7 @@ just a small small program coded by java  and not more than 200 lines.
 
 ## Program function：+ - * / 
 <br>
-    Memory Clear<br>
+    Memory Clear
     Memory Recall
     Memory Save<br>
     Memory Add
