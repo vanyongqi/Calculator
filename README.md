@@ -1,4 +1,5 @@
 # Calculator 1.0
+![Image text](https://github.com/vanyongqi/Calculator/blob/master/Calculator/img/calculator.PNG)
 just a small small program coded by java  and not more than 200 lines.
     Memory Clear
     Memory Recall
