@@ -8,7 +8,7 @@ just a small small program coded by java  and not more than 200 lines.
     CE clear data in register
     C clear all data and operator
   
- 简易计算器1.0 java版本
+简易计算器1.0版本
     MC：清除存储的数据
     MR：读取存储的数据
     MS：将所显示的数存入存储器中，存储器中原有的数据被覆盖
