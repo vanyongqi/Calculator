@@ -1,12 +1,12 @@
 # Calculator 1.0
 just a small small program coded by java  and not more than 200 lines.
-    Memory Clear; 
-    Memory Recall; 
-    Memory Save; 
-    Memory Add; 
-    Memory Minus;
-    CE clear data in register;
-    C clear all data and operator;
+    Memory Clear
+    Memory Recall
+    Memory Save
+    Memory Add
+    Memory Minus
+    CE clear data in register
+    C clear all data and operator
   
  简易计算器1.0 java版本
     MC：清除存储的数据
